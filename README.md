@@ -100,6 +100,9 @@ Cap-1---A-consolida-o-de-um-sistema---Fase-7-main/
 - Banco SQLite  
 - Conta AWS configurada com SNS e credenciais IAM
 
+📹 Link do vídeo: https://youtu.be/tWi5ntBsuec
+
+
 🗃 Histórico de lançamentos
 0.5.0 - 23/11/2025 *
 0.4.0 - XX/XX/2025 *
