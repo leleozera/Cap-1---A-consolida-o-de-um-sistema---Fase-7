@@ -1,19 +1,28 @@
 FIAP - Faculdade de Informática e Administração Paulista
+
 FIAP - Faculdade de Informática e Admnistração Paulista
 
 
 Cap 1 - A consolidação de um sistema
+
 Nome do grupo
+
 👨‍🎓 Integrantes:
 Erick Souza Pereira
 Leonardo Nunes Urbano
 
 👩‍🏫 Professores:
+
 Tutor(a)
+
 Nome do Tutor
+
 Coordenador(a)
+
 Nome do Coordenador
+
 📜 Descrição
+
 Este projeto faz parte da Fase 7 do Programa de Formação da FIAP e representa a consolidação de todas as etapas desenvolvidas nas Fases 1 a 6. O objetivo final é integrar em um único sistema todos os serviços criados anteriormente, criando um ecossistema digital completo para gestão agrícola, que pode ser facilmente adaptado para outros setores da economia.
 
 Ao longo do desenvolvimento, foram trabalhados tópicos essenciais como IoT, Banco de Dados, Automação, Machine Learning, Cloud Computing, Segurança da Informação e Visão Computacional. Na Fase 7, esses elementos são organizados em um único dashboard interativo desenvolvido em Python com Streamlit.
